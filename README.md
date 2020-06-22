@@ -23,4 +23,4 @@ Feel free to use it, though I doubt anyone will.
 
 I may continue this project eventually, but for now it remains as is.
 
-Thanks for using Mixer Retweet.
+Thanks for using Mixer Retweet.# RetweetX
