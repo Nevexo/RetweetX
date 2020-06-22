@@ -1,0 +1,31 @@
+{
+  "name": "retweetx",
+  "version": "1.0.0",
+  "description": "[Temp name] A Twitter Retweet Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevexo/RetweetX.git"
+  },
+  "author": "Cameron Fleming <cameron@nevexo.space>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevexo/RetweetX/issues"
+  },
+  "homepage": "https://github.com/Nevexo/RetweetX#readme",
+  "dependencies": {
+    "@types/node": "^12.11.1",
+    "assert": "^2.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.5",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1",
+    "winston": "^3.2.1",
+    "ws": "^7.2.0"
+  }
+}

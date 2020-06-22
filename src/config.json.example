@@ -1,0 +1,41 @@
+{
+    "branding": {
+        "name": "Mixer Retweet",
+        "shortName": "MXRTT",
+        "useCustomBranding": true,
+        "url": "mixer.com"
+    },
+    "logging": {
+        "level": "debug",
+        "logsDirectory": "logs/",
+        "advancedLogging": false,
+        "maxRetries": 3
+    },
+    "database": {
+        "server": "",
+        "database": "retweetx",
+        "read_only":false
+    },
+    "service": {
+        "http": {
+            "enable": true,
+            "port": 8080
+        },
+        "websocket": {
+            "enable": true,
+            "port": 8081
+        }
+    },
+    "twitter": {
+        "consumer_key": "",
+        "consumer_secret": "",
+        "access_token_key": "",
+        "access_token_secret": "",
+        "track": "",
+        "id": "",
+        "connect": true
+    },
+    "notification": {
+        "webhooks": []
+    }
+}
